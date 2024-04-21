@@ -1,0 +1,30 @@
+{
+    "name": "PingPongAlone",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "radio": "*",
+        "audio-recording": "*",
+        "warte bis...": "github:calliope-edu/warte-bis#208c664d13fa2cd76d976828347fd2d9dd5fa725",
+        "pxt-calliope-buttons": "github:mkleinsb/pxt-calliope-buttons#v0.1.0",
+        "power": "github:calliope-edu/pxt-power#2082fa5b04962f876b18fd9562ded2593efdb0a4",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.28",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
+}
